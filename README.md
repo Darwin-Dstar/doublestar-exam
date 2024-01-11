@@ -21,8 +21,8 @@
 
 - Create a file called my.log. When you’re ready to begin coding, please push my.log file with a text "IN" in it as your initial commit and a commit message "IN". This will indicate your start time. And when you take a break push the my.log file with a text and a commit message "BREAK", "BACK" when you resume and "OUT" when you finish. Pushing development files excluding my.log file should be done the usual way.
 
-# The exam is valid for three days, and submitting it earlier will earn you extra points.
-# You may begin now. Best of luck!
+### This exam is valid for 3 days, and submitting it earlier will earn extra points.
+### You can now start. Best of luck!
 
 ## Required Functionalities
 
